@@ -1,4 +1,4 @@
-Generate shared access signatures for Azure Servicebus
+Generates shared access signatures for Azure Servicebus
 
 # Usage
 
